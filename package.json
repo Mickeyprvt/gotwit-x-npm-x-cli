@@ -1,0 +1,33 @@
+{
+  "name": "gotwit",
+  "version": "1.0.0",
+  "description": " Daily Useful Operations CLI for Web Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": " gotwit --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mickeyprvt/gotwit-x-npm-x-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "web",
+    "kyros",
+    "gotwit",
+    "utility",
+    "daily-operations",
+    "npm",
+    "automation",
+    "developer-tools",
+    "productivity",
+    "file-generator",
+    "bash-cli"
+  ],
+  "author": "ATITHI SINGH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mickeyprvt/gotwit-x-npm-x-cli/issues"
+  },
+  "homepage": "https://github.com/Mickeyprvt/gotwit-x-npm-x-cli#readme"
+}
